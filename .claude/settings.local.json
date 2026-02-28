@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest:*)",
+      "Bash(npm run:)",
+      "Bash(pkill:*)",
+      "WebFetch(domain:claudeblattman.com)",
+      "Bash(tail:*)",
+      "Bash(npx:*)",
+      "Bash(npm run:*)",
+      "WebSearch",
+      "WebFetch(domain:wow.pjh.is)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:playbooks.com)",
+      "Bash(brew install:*)",
+      "Bash(echo PATH: $PATH:*)",
+      "Bash(sudo npm:*)",
+      "Bash(export:*)",
+      "Bash(GOOGLE_OAUTH_CREDENTIALS=~/.gmail-mcp/gcp-oauth.keys.json npx:*)",
+      "WebFetch(domain:pypi.org)",
+      "Bash(gh auth:*)",
+      "Bash(git:*)",
+      "Bash(npm install:*)",
+      "Bash(npm config:*)",
+      "Bash(vercel:*)",
+      "Bash(curl -L \"https://github.com/cli/cli/releases/download/v2.67.0/gh_2.67.0_macOS_arm64.tar.gz\" -o /tmp/gh.tar.gz --fail)",
+      "Bash(curl:*)",
+      "Bash(~/.npm-global/bin/gh auth:*)"
+    ]
+  }
+}
