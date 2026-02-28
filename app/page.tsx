@@ -2,6 +2,7 @@ import Hero from "@/components/Hero";
 import SetupGuide from "@/components/SetupGuide";
 import SkillsGallery from "@/components/SkillsGallery";
 import TerminalDarkMode from "@/components/TerminalDarkMode";
+import EmailCapture from "@/components/EmailCapture";
 
 export default function Home() {
   return (
@@ -13,6 +14,8 @@ export default function Home() {
       <SkillsGallery />
       <hr className="border-gray-200" />
       <TerminalDarkMode />
+      <hr className="border-gray-200" />
+      <EmailCapture />
       <footer className="pt-4 text-sm text-gray-400">
         Built for{" "}
         <a
