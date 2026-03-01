@@ -5,7 +5,7 @@ export default function Hero() {
         Claude Code Skills Pack
       </h1>
       <p className="text-gray-600 text-lg leading-relaxed mb-8">
-        12 ready-made skills for Claude Code — manage your calendar, triage
+        13 ready-made skills for Claude Code — manage your calendar, triage
         your inbox, and analyse data, all in plain English from your terminal.
       </p>
       <div className="flex gap-4 text-sm font-medium">
