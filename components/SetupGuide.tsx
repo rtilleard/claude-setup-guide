@@ -388,7 +388,7 @@ export default function SetupGuide() {
         <p className="text-sm text-gray-600 leading-relaxed">
           Now paste the script below into Terminal and press Enter. It writes all 13 skill files into the folder you just created.
         </p>
-        <CodeBlock code={installScript} filename="Paste into Terminal — installs all 12 skills" />
+        <CodeBlock code={installScript} filename="Paste into Terminal — installs all 13 skills" />
         <p className="text-sm text-gray-600 leading-relaxed">
           You should see a message that says <em>13 skills installed successfully</em>.
         </p>
@@ -441,7 +441,7 @@ export default function SetupGuide() {
           ))}
         </div>
         <p className="text-sm text-gray-400 pt-1">
-          <strong className="text-gray-500">A note on persistence:</strong> The email and calendar tools do work well, but occasionally need a second attempt. If a skill doesn't return results first time, just run it again — it usually gets there.
+          <strong className="text-gray-500">A note on connecting:</strong> The email and calendar integrations do work well, but occasionally need a second attempt to connect. If something isn&apos;t coming through, disconnect and reconnect — it usually gets there.
         </p>
       </div>
     </section>

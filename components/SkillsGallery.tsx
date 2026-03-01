@@ -31,7 +31,7 @@ const skills = [
 export default function SkillsGallery() {
   return (
     <section id="skills">
-      <h2 className="text-xl font-bold text-gray-900 mb-8">All 12 skills</h2>
+      <h2 className="text-xl font-bold text-gray-900 mb-8">All 13 skills</h2>
 
       <div className="space-y-10">
         {skills.map((group) => (
@@ -60,7 +60,7 @@ export default function SkillsGallery() {
           href="#setup"
           className="text-sm font-medium text-orange-600 hover:underline underline-offset-2"
         >
-          Install all 12 skills →
+          Install all 13 skills →
         </a>
       </div>
     </section>

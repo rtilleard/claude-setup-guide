@@ -76,7 +76,7 @@ export default function SkillsPreview() {
             What you&apos;ll be able to do
           </h2>
           <p className="text-gray-500 text-lg">
-            12 skills that work right from your terminal, in plain English.
+            13 skills that work right from your terminal, in plain English.
           </p>
         </div>
 
