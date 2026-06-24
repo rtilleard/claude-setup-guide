@@ -21,6 +21,12 @@ export default function Hero() {
         >
           See all skills
         </a>
+        <a
+          href="/demo"
+          className="text-violet-600 hover:underline underline-offset-2"
+        >
+          See the vision →
+        </a>
       </div>
     </section>
   );
